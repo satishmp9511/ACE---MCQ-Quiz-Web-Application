@@ -1,0 +1,162 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background: #0f172a;
+    background-image: 
+        radial-gradient(at 10% 20%, rgba(99, 102, 241, 0.25) 0px, transparent 50%),
+        radial-gradient(at 90% 80%, rgba(168, 85, 247, 0.25) 0px, transparent 50%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    color: #f8fafc;
+}
+
+h1 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    background: linear-gradient(135deg, #818cf8 0%, #c084fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 25px;
+    text-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.box {
+    background: rgba(30, 41, 59, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    width: 100%;
+    max-width: 480px;
+    padding: 32px;
+    border-radius: 24px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+}
+
+.Qu {
+    background: rgba(15, 23, 42, 0.6);
+    padding: 18px;
+    border-radius: 16px;
+    border-left: 4px solid #818cf8;
+    margin-bottom: 20px;
+}
+
+.Qu label {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #f1f5f9;
+    line-height: 1.5;
+}
+
+ol {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+ol li {
+    background: rgba(51, 65, 85, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 14px 18px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+ol li:hover {
+    background: rgba(99, 102, 241, 0.15);
+    border-color: #818cf8;
+    transform: translateX(5px);
+}
+
+.Op {
+    font-size: 1rem;
+    color: #cbd5e1;
+    font-weight: 500;
+}
+
+input[type="number"] {
+    width: 100%;
+    padding: 14px;
+    background: rgba(15, 23, 42, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    font-size: 1rem;
+    color: #ffffff;
+    outline: none;
+    margin-bottom: 14px;
+    transition: all 0.2s;
+}
+
+input[type="number"]:focus {
+    border-color: #a855f7;
+    box-shadow: 0 0 12px rgba(168, 85, 247, 0.3);
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.05rem;
+    font-weight: 700;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    box-shadow: 0 4px 15px rgba(99, 102, 241, 0.35);
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    opacity: 0.95;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(168, 85, 247, 0.45);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+.co {
+    display: block;
+    margin-top: 16px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+/* Result Feedback Colors */
+label[name="corr"] {
+    color: #34d399; /* Mint Green */
+    text-shadow: 0 0 10px rgba(52, 211, 153, 0.4);
+}
+
+.nb {
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+.nb button {
+    background: rgba(51, 65, 85, 0.8);
+    box-shadow: none;
+}
+
+.nb button:hover {
+    background: rgba(71, 85, 105, 1);
+}
