@@ -1,0 +1,50 @@
+FastAPI kis Python version par best kaam karta hai? - 1 - Python 3.8+ - Python 2.7 - Python 3.0 - Python 3.5
+FastAPI me automatic API documentation ke liye kya use hota hai? - 2 - Django - Swagger UI / OpenAPI - Flask - Bootstrap
+FastAPI me HTML template render karne ke liye kis library ka use hota hai? - 3 - React - Blade - Jinja2 - Django Templates
+Python me variable ka data type check karne ke liye kaun sa function use hota hai? - 1 - type() - typeof() - datatype() - check()
+FastAPI application ko chalane ke liye kaun sa ASGI server use hota hai? - 4 - Apache - Nginx - Gunicorn - Uvicorn
+HTML me form ka data send karne ke liye kaun sa method safety ke liye best hai? - 2 - GET - POST - FETCH - PULL
+HTML form input field me numeric value lene ke liye kaun sa type attribute use hota hai? - 3 - text - digits - number - integer
+Python me list banane ke liye kis bracket ka use hota hai? - 1 - [] - {} - () - <>
+FastAPI route create karne ke liye kaun sa decorator use hota hai? - 2 - @app.get() - @app.route() - @get() - @app.fetch()
+HTML page ka main content kis tag ke andar hota hai? - 3 - <head> - <title> - <body> - <header>
+Python me dictionary me key-value pair store karne ke liye kya use hota hai? - 2 - [] - {} - () - ""
+HTML me link banane ke liye kaun sa tag use hota hai? - 1 - <a> - <link> - <href> - <url>
+FastAPI me HTTP request object ko HTML template me pass karna zaroori hai? - 1 - Haan - Nahi - Kabhi kabhi - Sirf POST me
+Python me function define karne ke liye kis keyword ka use hota hai? - 4 - func - define - function - def
+CSS me text ka color change karne ke liye kaun si property use hoti hai? - 2 - font-color - color - text-color - background-color
+HTML form me user se hidden value bhejne ke liye input type kya hota hai? - 3 - secret - private - hidden - mask
+FastAPI me request body pass karne ke liye kis library ka use hota hai? - 1 - Pydantic - Numpy - Pandas - Requests
+Python me conditional statements ke liye kaun sa keyword use hota hai? - 2 - when - if - case - check
+HTML page ko style karne ke liye kis langauge ka use hota hai? - 3 - JavaScript - Python - CSS - SQL
+Uvicorn server ko reload mode me chalane ka flag kya hai? - 4 - --run - --debug - --start - --reload
+Python me loop chalane ke liye kaun se do main keywords hain? - 1 - for aur while - do aur while - loop aur repeat - for aur foreach
+HTML element ki ID ko CSS me target karne ke liye kis symbol ka use hota hai? - 2 - . - # - $ - *
+FastAPI me synchronous function define karne ke liye kya likhte hain? - 3 - async def - function - def - void
+HTML element ki Class ko CSS me target karne ke liye kis symbol ka use hota hai? - 1 - . - # - % - @
+Python me string ko integer me convert karne ke liye kya use hota hai? - 4 - str() - float() - parse() - int()
+HTML me sabse badi heading ke liye kaun sa tag use hota hai? - 2 - <h6> - <h1> - <heading> - <head>
+FastAPI me status code 200 ka matlab kya hota hai? - 1 - OK / Success - Not Found - Server Error - Bad Request
+Python me comment likhne ke liye kaun sa symbol use hota hai? - 3 - // - /* - # - <!--
+HTML me input box ko empty submit hone se rokne ke liye kaun sa attribute lagate hain? - 2 - validate - required - stop - check
+FastAPI me URL parameter lene ke liye path me kya use hota hai? - 4 - () - [] - <> - {}
+CSS me element ka outer margin set karne ke liye kya property hai? - 1 - margin - padding - border - spacing
+CSS me element ka inner space set karne ke liye kya property hai? - 2 - margin - padding - spacing - gap
+Python me string concatenate karne ke liye kis operator ka use hota hai? - 3 - * - & - + - %
+HTML me drop-down list banane ke liye kis tag ka use hota hai? - 4 - <input> - <list> - <dropdown> - <select>
+FastAPI me static files serve karne ke liye kya mount karna padta hai? - 1 - StaticFiles - MediaFiles - AssetFiles - PublicFiles
+Python me key-value pair store karne ke liye kaun sa data structure hai? - 2 - List - Dictionary - Tuple - Set
+HTML me line break dene ke liye kaun sa tag use hota hai? - 3 - <break> - <lb> - <br> - <hr>
+FastAPI me asynchronous function ke liye kaun sa keyword use hota hai? - 4 - future - thread - promise - async def
+HTML me checkbox banane ke liye input type kya hota hai? - 1 - checkbox - check - box - tick
+Python me array ya list ki length nikalne ke liye konsa function hai? - 2 - size() - len() - count() - length()
+FastAPI me 404 Error ka kya matlab hota hai? - 3 - Server Error - Unauthorized - Not Found - Bad Request
+HTML form me radio button ka use kis ke liye hota hai? - 4 - Multiple Select - Text Input - File Upload - Single Select Option
+Python me code blocks ko identify karne ke liye kya use hota hai? - 1 - Indentation - Curly Brackets - Semicolons - Parentheses
+CSS me background color badalne ke liye property kya hai? - 2 - color - background-color - bg-color - back-color
+FastAPI me JSON response bhejne ke liye default response kya hota hai? - 3 - HTMLResponse - PlainTextResponse - JSONResponse - XMLResponse
+HTML me horizontal line khinchne ke liye kaun sa tag use hota hai? - 4 - <line> - <border> - <br> - <hr>
+Python me remainder nikalne ke liye kaun sa operator hai? - 1 - % - / - // - *
+HTML page me title tab par kya dikhega ye kis tag se decide hota hai? - 2 - <meta> - <title> - <head> - <name>
+FastAPI me custom port par server chalane ke liye uvicorn command kya hogi? - 3 - uvicorn main:app --start 8000 - uvicorn main:app --run 8000 - uvicorn main:app --port 8000 - uvicorn main:app --set 8000
+Python me Boolean values kaun si hoti hain? - 4 - 1 aur 0 - yes aur no - high aur low - True aur False
