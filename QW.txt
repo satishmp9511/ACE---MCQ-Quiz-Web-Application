@@ -1,4 +1,3 @@
-FastAPI kis Python version par best kaam karta hai? - 1 - Python 3.8+ - Python 2.7 - Python 3.0 - Python 3.5
 FastAPI me automatic API documentation ke liye kya use hota hai? - 2 - Django - Swagger UI / OpenAPI - Flask - Bootstrap
 FastAPI me HTML template render karne ke liye kis library ka use hota hai? - 3 - React - Blade - Jinja2 - Django Templates
 Python me variable ka data type check karne ke liye kaun sa function use hota hai? - 1 - type() - typeof() - datatype() - check()
@@ -48,3 +47,4 @@ Python me remainder nikalne ke liye kaun sa operator hai? - 1 - % - / - // - *
 HTML page me title tab par kya dikhega ye kis tag se decide hota hai? - 2 - <meta> - <title> - <head> - <name>
 FastAPI me custom port par server chalane ke liye uvicorn command kya hogi? - 3 - uvicorn main:app --start 8000 - uvicorn main:app --run 8000 - uvicorn main:app --port 8000 - uvicorn main:app --set 8000
 Python me Boolean values kaun si hoti hain? - 4 - 1 aur 0 - yes aur no - high aur low - True aur False
+FastAPI kis Python version par best kaam karta hai? - 1 - Python 3.8+ - Python 2.7 - Python 3.0 - Python 3.5
