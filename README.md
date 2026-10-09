@@ -25,3 +25,8 @@ A lightweight, error-proof MCQ Quiz application built using **FastAPI**, **Jinja
 ├── vercel.json          # Vercel deployment configuration
 ├── requirements.txt     # Python project dependencies
 └── README.md            # Project documentation
+
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+cd YOUR_REPOSITORY_NAME
+pip install -r requirements.txt
+uvicorn main:app --reload
