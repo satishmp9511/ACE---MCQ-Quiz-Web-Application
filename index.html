@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ACE - Quiz</title>
+        <link rel="stylesheet" href="/static/style.css">
+    </head>
+    <body>
+        <h1>--WECOME TO ACE--</h1>
+        <div class="box">
+            <form class="mcq" action="/ch" method="post">
+                <div class="Qu">
+                    <label name="Q">Question:{{ q if q else 'not available' }}</label><br>
+                </div>
+                <ol>         
+                    <li><label class="Op" name="1">{{ n1 if n1 else 'not available' }}</label></li>
+                    <li><label class="Op" name="2">{{ n2 if n2 else 'not available' }}</label></li>
+                    <li><label class="Op" name="3">{{ n3 if n3 else 'not available' }}</label></li>
+                    <li><label class="Op" name="4">{{ n4 if n4 else 'not available' }}</label></li>
+
+                </ol>   
+
+                <input required name="an" type="number" placeholder="Enter answer...">
+                <button type="submit">Submit Answer</button>
+                <label class="co" name="corr">{{ c if c else '' }}</label><br>
+
+            </form>
+            <form action="/next" method="post" class="nb">
+                <input required name="nan" type="number" placeholder="Enter Q number (e.g. 2)...">
+                <button type="submit">Go to Question</button>
+            </form>
+            
+        </div>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
